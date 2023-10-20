@@ -1,0 +1,8 @@
+name: gpred
+channels:
+   - conda-forge
+dependencies:
+   - python=3.12
+   - pytest=7.4.2
+   - pylint=3.0.1
+   - pytest-cov=4.1.0
